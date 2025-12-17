@@ -1,0 +1,1 @@
+This is a sample file uploaded by Terraform on 2025-12-11.
